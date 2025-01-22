@@ -21,24 +21,25 @@ This project is an excellent learning experience for anyone looking to enhance t
 ## Output
 
 ### Homepage
-![Screenshot 2024-02-15 175626](https://github.com/shashi981/E-commerce-Website/assets/134778655/0961d84b-8f52-4141-9b7c-5ca624534c7b)
-![Screenshot 2024-02-15 175638](https://github.com/shashi981/E-commerce-Website/assets/134778655/32e680a1-5fb6-4fff-a7aa-b31e2441242e)
-![Screenshot 2024-02-15 175650](https://github.com/shashi981/E-commerce-Website/assets/134778655/4eb1e4fe-f26a-4484-869e-700206ae527d)
-![Screenshot 2024-02-15 175710](https://github.com/shashi981/E-commerce-Website/assets/134778655/f4c3ed1b-b8c5-4822-8773-15e7d0d4ac58)
-![Screenshot 2024-02-15 175737](https://github.com/shashi981/E-commerce-Website/assets/134778655/d54c0d40-71e7-459d-b409-62bf9e375e88)
-![Screenshot 2024-02-15 175757](https://github.com/shashi981/E-commerce-Website/assets/134778655/4ab963d2-58fc-4607-a942-9f7c0b1f3550)
+![image](https://github.com/user-attachments/assets/0c2180b4-83cd-4771-b3a9-9ff0f79c3e8e)
+![image](https://github.com/user-attachments/assets/0308bd14-c9d5-4d2b-9e8c-8620aac561dc)
+![image](https://github.com/user-attachments/assets/3e0024a6-604e-4e83-93be-763f6b2db79a)
+![image](https://github.com/user-attachments/assets/5dc16e8e-58e8-497b-9fda-670bd79a4ade)
 
 ### Cart Page
 The cart page is linked to the homepage, allowing users to add any item to the cart.  
-![Screenshot 2024-02-15 175825](https://github.com/shashi981/E-commerce-Website/assets/134778655/17b89ad3-9328-40d7-98b2-784d78038bde)
+![image](https://github.com/user-attachments/assets/f889882d-f9e5-45a0-9427-98ca1e409d99)
+
 
 ### Sign-Up Page
 The sign-up page is linked to the homepage and can also be accessed from anywhere on the website.  
-![Screenshot 2024-02-15 175835](https://github.com/shashi981/E-commerce-Website/assets/134778655/f2c8d28f-011f-4f7a-9fe5-aed41a0ccac4)
+![image](https://github.com/user-attachments/assets/6d6ca620-7594-4b27-886f-9751a024f2eb)
+
 
 ### Login Page
 The login page is linked to the homepage and is accessible from anywhere on the website.  
-![Screenshot 2024-02-15 175841](https://github.com/shashi981/E-commerce-Website/assets/134778655/c0e207f3-6e53-4e2b-9749-9ce095f72502)
+![image](https://github.com/user-attachments/assets/685a5900-50b9-428b-a8ae-3063921543ae)
+
 
 ---
 
